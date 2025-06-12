@@ -5,7 +5,7 @@
 ## Hướng dẫn sử dụng
 
 1. Vào Kodi, chọn File Manager > Add source.
-2. Nhập đường dẫn: `https://username.github.io/`
+2. Nhập đường dẫn: `https://btliem.github.io/`
 3. Vào Add-ons > Install from zip file > Chọn nguồn vừa thêm.
 4. Cài đặt file repository hoặc add-on mong muốn.
 
@@ -13,3 +13,5 @@
 
 - [repository.kodinerds-7.0.1.7.zip](repository.kodinerds-7.0.1.7.zip)
 - [plugin.video.hdvn1.2.5.zip](plugin.video.hdvn1.2.5.zip)
+- [playercorefactory.xml](playercorefactory.xml)
+- 
